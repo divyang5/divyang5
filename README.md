@@ -29,6 +29,7 @@ Languages and Tools:
 ### Projects
 
 &nbsp;&nbsp;&nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=shopping-app)](https://github.com/divyang5/shopping-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Mvvm-News-App)](https://github.com/divyang5/Mvvm-News-App) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Chat-App)](https://github.com/divyang5/Chat-App) &nbsp;&nbsp;&nbsp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=MenDoFeel)](https://github.com/divyang5/MenDoFeel) &nbsp;&nbsp;&nbsp;
