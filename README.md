@@ -1,7 +1,7 @@
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hi there! 
 
-## I'm a Android App Developer!
+## I'm a Android / IOS App Developer!
 - 👋 Hi, I’m Divyang
 - 👀 I’m interested in Android application development.
 - 📫 You can reach me on divyangsumesara4@gmail.com
@@ -28,6 +28,7 @@ Languages and Tools:
 ### Projects
 
 &nbsp;&nbsp;&nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Landloard-Resident-App)](https://github.com/divyang5/Landloard-Resident-App) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=shopping-app)](https://github.com/divyang5/shopping-app) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Mvvm-News-App)](https://github.com/divyang5/Mvvm-News-App) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Chat-App)](https://github.com/divyang5/Chat-App) &nbsp;&nbsp;&nbsp; 
