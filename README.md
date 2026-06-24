@@ -27,9 +27,10 @@ Languages and Tools:
 
 ### Projects
 &nbsp;&nbsp;&nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=StudyMate-AI)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=StudyMate-AI)](https://github.com/divyang5/StudyMate-AI)
 &nbsp;&nbsp;&nbsp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Landloard-Resident-App)](https://github.com/divyang5/Landloard-Resident-App) &nbsp;&nbsp;&nbsp;
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=shopping-app)](https://github.com/divyang5/shopping-app) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Mvvm-News-App)](https://github.com/divyang5/Mvvm-News-App) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Chat-App)](https://github.com/divyang5/Chat-App) &nbsp;&nbsp;&nbsp; 
