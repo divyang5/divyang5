@@ -26,20 +26,21 @@ Languages and Tools:
 
 
 ### Projects
-
+&nbsp;&nbsp;&nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=StudyMate-AI)]
 &nbsp;&nbsp;&nbsp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Landloard-Resident-App)](https://github.com/divyang5/Landloard-Resident-App) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=shopping-app)](https://github.com/divyang5/shopping-app) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Mvvm-News-App)](https://github.com/divyang5/Mvvm-News-App) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=Chat-App)](https://github.com/divyang5/Chat-App) &nbsp;&nbsp;&nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyang5&theme=chartreuse-dark&repo=MenDoFeel)](https://github.com/divyang5/MenDoFeel) &nbsp;&nbsp;&nbsp;
+
 
 
 
 #
 ### Stats
 
-&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=divyang5&layout=compact&show_icons=true&theme=chartreuse-dark" /> &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyang5&theme=chartreuse-dark" />
+&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyang5&theme=chartreuse-dark" />
 
 
 #
